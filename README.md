@@ -13,5 +13,7 @@
 - [github.com/franciscop/picnic](https://github.com/franciscop/picnic)
 - [github.com/jgthms/minireset.css](https://github.com/jgthms/minireset.css)
 - [github.com/csstools/normalize.css](https://github.com/csstools/normalize.css)
+- [github.com/dhg/skeleton](https://github.com/dhg/Skeleton)
+- [github.com/nostalgic-css/nes.css](https://github.com/nostalgic-css/NES.css)
 
 Original idea: https://nicolas-cusan.github.io/destyle.css
